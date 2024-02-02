@@ -18,8 +18,8 @@ pip install PyOpenGL Pillow
 ## How to run
 1. Download the source code or clone the repository:
 ```
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone git@github.com:ehrlz/solar-system.git
+cd solar-system
 ```
 2. Run the script in your terminal.
 ```
