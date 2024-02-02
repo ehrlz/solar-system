@@ -1,6 +1,7 @@
 # Solar System
 This project utilizes Python and the OpenGL library to showcase a simple animation of the solar system, demonstrating the rotation of the Earth around the Sun along with the Moon's orbit around the Earth. Textures are incorporated to represent the Earth, the Sun, and the Moon.
 
+![solar-system](https://github.com/ehrlz/solar-system/assets/62675568/8625d90d-dc59-4157-b3db-cc2050b8f2de)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
